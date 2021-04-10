@@ -6,7 +6,7 @@
 - Boş komut taslağı vardır.
 - Komutları `commands` klasörüne ekleyiniz.
 - [Projenin Glitch Linki ](https://glitch.com/~discord-v12-bos-altyapi)
-- 
+ 
 ## Discord
 - [benim adım arda#5021](https://discord.com/users/381536688331030528)
 - [Sunucum](https://discord.com/invite/MK5uAWQUsG)
